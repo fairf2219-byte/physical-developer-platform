@@ -1,0 +1,8 @@
+{
+  "name": "physical-developer-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PHYSICAL Developer Platform with app submission and approval",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2" }
+}
